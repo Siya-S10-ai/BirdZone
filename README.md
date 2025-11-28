@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Copyright (c) 2025 Siya
+Copyright (c) 2025 Siyabonga Nhlapo
